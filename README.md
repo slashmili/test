@@ -30,6 +30,7 @@ Usage
 
 4. Edit foo/models.py 
 
+
     from django.db import models                                                                                                                          
     from django_jalali.db import models as jmodels
 
