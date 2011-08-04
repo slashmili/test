@@ -17,6 +17,7 @@ Usage
 ### Direct Usage
 
 1. Run : 
+
 ```
 
     $ django-admin.py startproject jalali_test
