@@ -17,10 +17,10 @@ Usage
 ### Direct Usage
 
 1. Run : 
-
+```
 
     $ django-admin.py startproject jalali_test
-
+```
 
 2. Start your app :
 
@@ -30,7 +30,7 @@ Usage
 
 4. Edit foo/models.py 
 
-
+```python
     from django.db import models                                                                                                                          
     from django_jalali.db import models as jmodels
 
@@ -46,4 +46,4 @@ Usage
         datetime = jmodels.jDateTimeField()
         def __str__(self):
             return "%s, %s" %(self.name, self.datetime)
-
+```
