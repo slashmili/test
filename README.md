@@ -1,35 +1,22 @@
-Django Jalali
+BLAH BLAH
 =============
-This module gives you a DateField same as Django's DateField but you can get and query data based on Jalali Date
+This module gives you a BLAH as BLAH's BLAH but you can get and query data based on BLAH BLAH
 
 Dependencies
 ------------
-* [jdatetime](http://pypi.python.org/pypi/jdatetime/) -- `easy_install jdatetime`
+* [BLAH](http://BLAH.BLAH.org/BLAH/BLAH/) -- `BLAH BLAH`
 
 Install
 -------
 
-    easy_install django_jalali
+    BLAH BLAH
 
 Usage
 -----
 
 ### Direct Usage
 
-1. Run : 
-
-```
-
-    $ django-admin.py startproject jalali_test
-```
-
-2. Start your app :
-
-    $ python manage.py startapp foo
-
-3. Edit settings.py and add django_jalali and your foo to your INSTALLED_APPS (also config DATABASES setting)
-
-4. Edit foo/models.py 
+ 
 
 ```python
     from django.db import models                                                                                                                          
