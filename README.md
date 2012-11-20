@@ -2,6 +2,8 @@ BLAH BLAH
 =============
 This module gives you a BLAH as BLAH's BLAH but you can get and query data based on BLAH BLAH
 
+
+ 
 Dependencies
 ------------
 * [BLAH](http://BLAH.BLAH.org/BLAH/BLAH/) -- `BLAH BLAH`
@@ -35,3 +37,29 @@ Usage
         def __str__(self):
             return "%s, %s" %(self.name, self.datetime)
 ```
+
+<div dir="rtl">
+
+تست فارسی
+=============
+این یک تست برای نوشتن فارسی در زبان Markdown می‌باشد.
+
+تست
+-------
+* [تست لینک](http://BLAH.BLAH.org/BLAH/BLAH/) --`یک تست می باشد`
+
+نصب
+-------
+
+    برای نصب این امکان نیاز به تنظیمات خاصی ندارید
+
+استفاده
+-----
+
+### استفاده مستقیم
+<div dir="ltr">
+```python
+    from markdown import rtl                                                                                                                          
+```
+<div dir="rtl">
+برای دیدن منبع برنامه بر روی سورس در بالای صفحه کلیک کنید
