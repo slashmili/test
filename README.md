@@ -3,7 +3,10 @@ BLAH BLAH
 This module gives you a BLAH as BLAH's BLAH but you can get and query data based on BLAH BLAH
 
 
- 
+Links
+------
+
+[Local Link to rails.rdoc](/rails.rdoc) 
 Dependencies
 ------------
 * [BLAH](http://BLAH.BLAH.org/BLAH/BLAH/) -- `BLAH BLAH`
